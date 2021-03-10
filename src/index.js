@@ -1,5 +1,5 @@
 import "./style/style.css";
-
+console.log('test')
 const app = document.querySelector("#app");
 
 const formatPrice = (price) => {
